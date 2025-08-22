@@ -1,21 +1,9 @@
 Chaos at Fazbear's Launcher
 
 <p align="center">
-<!-- Reemplaza esta URL con un enlace directo a tu logo en el repositorio -->
-<img src="URL_DE_TU_LOGO.png" alt="Logo de Chaos at Fazbear's" width="250"/>
-</p>
-
-<p align="center">
 <strong>El lanzador oficial para la experiencia definitiva de <em>Chaos at Fazbear's</em>.</strong>
 <br />
 Diseñado para ser el centro de nuestra comunidad, ofreciendo actualizaciones automáticas, noticias, eventos y mucho más.
-</p>
-
-<p align="center">
-<!-- Reemplaza "TU_USUARIO/TU_REPOSITORIO" con tu nombre de usuario y el nombre de tu repositorio -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Versi%C3%B3n-1.0.0-blue.svg" alt="Versión">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Plataforma-Windows-informational.svg" alt="Plataforma">
-<img src="https://www.google.com/search?q=https://img.shields.io/github/downloads/TU_USUARIO/TU_REPOSITORIO/total%3Flabel%3DDescargas%26color%3Dbrightgreen" alt="Descargas">
 </p>
 
 ✨ Características Principales
